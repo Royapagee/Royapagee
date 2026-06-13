@@ -10,14 +10,10 @@
   <tr>
     <th>属性</th>
     <th>内容</th>
-    <th>与档案无关的自设图片（存疑）</th>
   </tr>
   <tr>
     <td>代号</td>
     <td>罗伊 / Roy</td>
-    <td rowspan="8" align="center" style="vertical-align: middle; border: none; padding: 0;">
-      <img src="https://www.roysgensokyo.space/usr/uploads/2026/06/2561480125.png" alt="头像" style="max-height: 250px;">
-    </td>
   </tr>
   <tr>
     <td>身高</td>
@@ -39,11 +35,30 @@
     <td>当前状态</td>
     <td>上课、维护博客、随便做点什么</td>
   </tr>
-  <tr>
-    <td>我的技能点</td>
-    <td><a href="https://www.roysgensokyo.space/portfolio.html">点击查看</a></td>
-  </tr>
 </table>
+
+# 🛠️ 技能
+
+| 名称 | 标签 | 描述 | 时长 |
+| --- | --- | --- | --- |
+| 视频剪辑 | 工具 | 一些简单的视频剪辑能力 | 6个月 |
+| 图像编辑 | 工具 | 一些简单的图片编辑能力 | 6个月 |
+| 摄影 | 艺术 | 专业摄影技能，熟练掌握光线运用和构图技巧 | 5年6个月 |
+| C语言 | 后端 | 基础的 C 语言语法，后端开发 | 4个月 |
+| HTML/CSS | 前端 | 基于 CSS 和 Html 进行的前端交互开发 | 2个月 |
+| Python | 后端 | 使用 Python 进行人工智能相关的项目 | 6个月 |
+| ~~Vibe Coding~~ | ~~编程~~ | ~~使用人工智能完成项目的相关能力~~ | ~~6个月~~ |
+# 🏹 项目
+
+| 项目名称 | 时间 | 标签 | 描述 |
+| --- | --- | --- | --- |
+| Typecho博客 | 2025-12-05~现在 | 博客、主题、开源 | 基于 Typecho、Jasmine 进行二次主题修改的博客，正呈现在你的面前。 |
+| 亚托莉Bot | 2025-11-08~2026-05-01 | AI、亚托莉、机器人 | 基于 Napcat + Koishi + Chatluna 制作的QQ聊天机器人，提供群聊，长期记忆，图片理解，MC服务器查询，发言统计等功能。体验请前往个人小群 |
+| 琪露诺Bot| 2026-05-19~06-28 | AI、琪露诺、机器人 | 基于 Astrbot + 本地大模型（Gemma4-E2B）制作的QQ聊天机器人。体验请前往个人小群 |
+| EZ-llama-launcher | 2026-04-19~04-22 | AI、llama.cpp、启动器 | 简单的 Llama.cpp 启动器，用于将启动命令封装成 GUI 简化操作。 |
+| EZ-BBDown-launcher| 2026-05-03~05-06 | 哔哩哔哩、下载、启动器 | BBDown 图形化启动器，将命令行操作封装为简洁的 GUI 界面，简化哔哩哔哩视频下载流程。 |
+| 亚托莉主题宿舍床帘 | 2025-10-20~10-25 | 东方Project、亚托莉、床帘、设计 | 针对宿舍设计的以亚托莉和东方Project为主题的宿舍窗帘，为两面墙及吊顶式设计 |
+
 
 
 # 🎨 我的兴趣关键词
@@ -57,9 +72,7 @@
   | **游戏** | 生活不易，好在还有第九艺术。在虚拟的冒险里洗涤内心，寻得片刻安宁。 |
   | **东方Project** | 此生无悔入东方，来世愿生幻想乡！幻想为界，弹幕作誓。我心即东方，永世不灭。 |
 
-- **摄影作品**请移步 [摄影](https://www.roysgensokyo.space/category/photo/) ，**二次元收藏** 可移步 [设备&宅物](https://www.roysgensokyo.space/objects.html) ，了解我的**日常生活**欢迎来看我的 [日记](https://www.roysgensokyo.space/category/diary/)
-
-- 感谢你能看到这里，愿我们一起共同进步！ 
+**感谢你能看到这里，愿我们一起共同进步！** 
 <!---
 Royapagee/Royapagee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
